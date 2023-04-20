@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëŞíŸşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°éç‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€”¡­øÿÿÿÿ
+f	java:S128."LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128,"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+f	java:S128*"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+f	java:S128("LEnd this switch case with an unconditional break, return or throw statement.(ÌÊëÎüÿÿÿÿ
+`	java:S128&"LEnd this switch case with an unconditional break, return or throw statement.(û¿4
+`	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{
+f	java:S128""LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ
+f	java:S128 "LEnd this switch case with an unconditional break, return or throw statement.(òï±êÿÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(©Ğ‘şÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(—Í×©øÿÿÿÿ
+a	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâğ
+<	java:S131""Add a default case to this switch.(¹Ë”Óùÿÿÿÿ
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ıŠ¦øÿÿÿÿ8ÖŸƒôø0
